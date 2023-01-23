@@ -1,0 +1,12 @@
+p{
+    background-color: lightblue;
+}
+p2{
+    background-color: lightyellow;
+}
+.enLigne{
+    display: inline;
+}
+.bloc{
+    display: block;
+}

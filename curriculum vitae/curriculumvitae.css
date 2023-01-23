@@ -1,0 +1,76 @@
+#conteneur
+{
+    border: medium brown inset;
+    width: 300px;
+    height: 650px;
+    margin: 0px auto 0px;
+    position: relative;
+}
+#entete
+{
+    background-color:beige ;
+    width: 300px;
+    height: 100px;}
+
+#barredeNavigation
+{
+    background-color: lightblue;
+    width: 180px;
+    height: 50px;
+    top:25px;
+    right: 5px;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
+#image
+{
+    height: 100px;
+    width: 100px;
+
+}
+
+
+
+#corps
+{
+    position: absolute;
+    background-color: steelblue;
+    width: 300px;
+    height:450px;
+    text-align: center;
+}
+#contenudroite
+{
+    width: 200px;
+    height: 450px;
+    background-color: beige;
+    float: right;
+}
+#planGauche
+{
+    height: 450px;
+    width: 100px;
+    background-color: bisque;
+    position: absolute;
+}
+#pied
+{
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    bottom: -6%;
+}
+
+p2{
+    background-color: lightyellow;
+}
+
+.enligne{
+    display: inline;
+}
+.bloc{
+    display: block;}
